@@ -143,10 +143,6 @@ banner({ type:0 }).then(res=>{
 | Java |    [JackuXL](https://github.com/JackuXL)    | [https://github.com/JackuXL/NeteaseCloudMusicApi-SDK](https://github.com/JackuXL/NeteaseCloudMusicApi-SDK) | 第三方 |
 | Java | [1015770492](https://github.com/1015770492) |       https://github.com/1015770492/yumbo-music-utils        | 第三方 |
 
-## 贡献者
-
-![](https://opencollective.com/NeteaseCloudMusicApi/contributors.svg?width=890)
-
 
 ## License
 
