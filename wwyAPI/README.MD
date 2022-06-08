@@ -121,26 +121,20 @@ banner({ type:0 }).then(res=>{
 
 ## 功能特性
 1. 获取歌单，收藏，mv, dj 数量
+
 2. flex布局
+
 3.发现好歌单
+
 4.轮播图
+
 5.底部歌单条
+
 6. 搜索
+
 7. 搜索历史
+
 8.搜索历史删除
-
-## 更新日志
-
-[changelog](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/CHANGELOG.MD)
-
-## 单元测试
-
-```shell
-$ npm test
-```
-
-![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot1.png)
-![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot2.png)
 
 ## SDK
 
